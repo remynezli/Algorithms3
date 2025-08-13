@@ -1,0 +1,3 @@
+Data Structures: Fibonacci Heap, Splay Tree, Van Emde Boas Tree, B-Tree/B+ Tree, Suffix Array/Tree.
+Sorting: TimSort, Heap Sort, Counting Sort, Radix Sort, Bucket Sort.
+Reason: Haven’t practiced them much and they seem advanced.
